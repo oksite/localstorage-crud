@@ -1,0 +1,19 @@
+{
+  "name": "localstorage-crud",
+  "version": "1.0.0",
+  "description": "localstorage-crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksite/localstorage-crud.git"
+  },
+  "author": "oksite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksite/localstorage-crud/issues"
+  },
+  "homepage": "https://github.com/oksite/localstorage-crud#readme"
+}
